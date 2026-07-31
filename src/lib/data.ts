@@ -490,3 +490,5 @@ export const ABOUT_IMAGE = '/images/foto voor bij het stukje over ons.jpg';
 
 export const PROCESS_IMAGE = '/images/foto voor bij het stukje proces.jpg';
 ```
+
+
